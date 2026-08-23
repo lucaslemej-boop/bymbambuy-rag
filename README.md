@@ -178,3 +178,12 @@ A interface foi organizada para ficar mais simples de usar, com menu lateral, su
 - o script de ingestão está em `src/faq_agent/core/ingest.py`
 - a interface está em `src/faq_agent/ui/app.py`
 - o código de busca e resposta está em `src/faq_agent/core/rag.py`
+
+- ## Evidencias do deploy e do projeto funcionando
+
+Autonomous Database usado na OCI
+<img width="1912" height="988" alt="image" src="https://github.com/user-attachments/assets/40580e6a-bba1-4237-8ebf-8af1d612be23" />
+
+Servidor Linux usado para o Deploy da aplicação
+<img width="1911" height="681" alt="image" src="https://github.com/user-attachments/assets/2354e8bd-952a-4106-9363-346c8a63c60c" />
+
