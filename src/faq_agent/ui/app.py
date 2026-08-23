@@ -83,6 +83,13 @@ st.markdown(
     .welcome-panel p { color: var(--muted); margin: 0; }
     [data-testid="stChatMessage"] { border-radius: 10px; padding: 12px 16px; }
     [data-testid="stChatMessage"] [data-testid="stMarkdownContainer"] p { line-height: 1.6; }
+    [data-testid="stChatMessage"]:has([data-testid="stChatMessageAvatarAssistant"]) {
+        background: #e4f3e9;
+        border: 1px solid #c4e2cf;
+    }
+    [data-testid="stChatMessage"]:has([data-testid="stChatMessageAvatarAssistant"]) * {
+        color: #174f3b;
+    }
     [data-testid="stChatInput"] { border-top: 0; }
     [data-testid="stChatInput"] textarea { font-family: 'DM Sans', sans-serif; }
     .source-label { color: var(--muted); font-size: 12px; margin: 4px 0 8px; }
