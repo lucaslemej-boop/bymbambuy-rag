@@ -170,6 +170,8 @@ Na interface do Streamlit, você digita uma pergunta como:
 
 O agente busca o conteúdo mais relevante no banco vetorial e responde com base no FAQ.
 
+A interface foi organizada para ficar mais simples de usar, com menu lateral, sugestões de perguntas e respostas destacadas em uma cor diferente.
+
 ## Observações importantes
 
 - o arquivo do FAQ usado no projeto está em `data/FAQ-BimBam-Buy.pdf`
