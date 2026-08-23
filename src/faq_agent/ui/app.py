@@ -46,6 +46,18 @@ st.markdown(
         color: #fff;
     }
     [data-testid="stSidebar"] .stButton button:hover { background: rgba(255,255,255,.16); }
+    div[data-testid="stHorizontalBlock"] .stButton button {
+        background: #65b98d;
+        border: 1px solid #4eaa7b;
+        color: #fff;
+        min-height: 62px;
+        text-align: left;
+    }
+    div[data-testid="stHorizontalBlock"] .stButton button:hover {
+        background: #4eaa7b;
+        border-color: #398f67;
+        color: #fff;
+    }
     h1, h2, h3, [data-testid="stChatMessage"] p { font-family: 'DM Sans', sans-serif; }
     h1, h2, h3 { font-family: 'Space Grotesk', sans-serif; color: var(--ink); }
     .brand-mark {
