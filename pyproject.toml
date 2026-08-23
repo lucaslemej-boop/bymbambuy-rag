@@ -4,7 +4,7 @@ version = "0.1.0"
 requires-python = ">=3.11"
 dependencies = [
     "streamlit==1.38.0",
-    "oci==2.150.0",
+    "oci>=2.150.0",
     "oracledb==2.4.1",
     "pypdf==4.3.1",
     "python-dotenv==1.0.1",
