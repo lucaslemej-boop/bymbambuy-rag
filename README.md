@@ -187,3 +187,9 @@ Autonomous Database usado na OCI
 Servidor Linux usado para o Deploy da aplicação
 <img width="1911" height="681" alt="image" src="https://github.com/user-attachments/assets/2354e8bd-952a-4106-9363-346c8a63c60c" />
 
+Interface RAG em funcionamento
+<img width="1911" height="1088" alt="image" src="https://github.com/user-attachments/assets/299d8005-eb86-4235-821c-db99bfaa8961" />
+<img width="1907" height="1083" alt="image" src="https://github.com/user-attachments/assets/504418df-3e8d-4021-bf70-53a19d51a43e" />
+
+
+
